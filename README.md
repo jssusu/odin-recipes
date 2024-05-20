@@ -5,6 +5,13 @@ This is the [Recipes](https://www.theodinproject.com/lessons/foundations-recipes
 ## HTML Skills Demonstrated:
 - Use of Boilerplate code
 - Lists
+- Elements and tags
 - Embedding links and images
 - Use of (character) entities
 - Text formatting
+
+## CSS Skills Demonstrated:
+- Basic syntax
+- Selectors
+- Formatting HTML elements
+- Linking CSS with HTML
