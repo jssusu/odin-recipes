@@ -14,4 +14,5 @@ This is the [Recipes](https://www.theodinproject.com/lessons/foundations-recipes
 - Basic syntax
 - Selectors
 - Formatting HTML elements
+- The Box Model
 - Linking CSS with HTML
